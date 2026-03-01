@@ -1,16 +1,52 @@
-## Hi there 👋
+## Hi, I'm Yuki 👋
 
-<!--
-**yuki-nishigaki-dev/yuki-nishigaki-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend-strong Full-Stack Developer based in Japan 
+Online student at Brigham Young University–Idaho  
 
-Here are some ideas to get you started:
+I build user-friendly web applications with solid backend foundations.  
+Currently focused on improving my system design and backend architecture skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## （日本語）
+フロントエンドを強みとするフルスタック志向のエンジニアです。  
+ユーザーに優しいアプリケーションを作ることに注力しており、
+現在はバックエンド設計やシステムアーキテクチャの理解を深めています。
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend**
+- HTML / CSS
+- JavaScript
+
+**Backend**
+- Python
+- PHP
+- REST API Development
+- MySQL
+
+**Tools & Environment**
+- Git & GitHub
+- Docker
+- Linux
+
+---
+
+## 📚 Currently Learning
+
+- Database Design
+- Backend Architecture
+- Test-driven Development
+- Scalable System Design
+
+---
+
+## 🚀 Projects
+
+- Full-stack Task Management App (in progress)
+
+---
+
+## 📩 Contact
+
+- Email: yuki.nishigaki.dev@gmail.com
