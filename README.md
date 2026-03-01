@@ -25,10 +25,8 @@ Currently focused on improving my system design and backend architecture skills.
 - REST API Development
 - MySQL
 
-**Tools & Environment**
+**Tools**
 - Git & GitHub
-- Docker
-- Linux
 
 ---
 
